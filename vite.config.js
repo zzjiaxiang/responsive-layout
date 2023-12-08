@@ -12,6 +12,6 @@ export default defineConfig({
         },
       },
     },
-    target: ['es2022', 'edge110', 'firefox110', 'chrome110', 'safari16'],
+    target: ['es2022', 'edge119', 'firefox120', 'chrome119', 'safari17.1'],
   },
 })
